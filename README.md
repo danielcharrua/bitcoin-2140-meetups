@@ -25,13 +25,22 @@ Mi experiencia viene de organizar meetups como la de WordPress Coruña, donde te
 Es importante designar un equipo organizador (2-4 personas) que tenga disponibilidad y sea responsable. Este equipo debe realizar varias tareas previas y posteriores a cada meetup para que el evento sea una buena experiencia para todos. Si algún integrante del equipo falla, son los otros quienes deben hacer su trabajo, por lo tanto es importante el compromiso y la dedicación en los integrantes del equipo organizador.
 
 Al momento de crear el equipo sería interesante ver las aptitudes de cada uno y dividir tareas generales. Algunas son:
-* Presentar y abrir el evento.
+* Presentar y cerrar el evento, también informa el networking.
 * Redacción de textos para el evento, mensajes a enviar, tweets de patrocinadores.
 * Publicación del evento en meetup.com.
 * Creación de material gráfico como banners, logos, plantilla para los ponentes, etc.
 * Comunicación y gestión de patrocinadores.
 * Reserva de sitio y lo necesario para el networking.
 * Llevar equipamiento necesario para el día de la meetup.
+
+Lo ideal para agilizar el trabajo del equipo es utilizar algun sistema de almancenamiento de archivos en la nube colaborativo, de esa forma compartir todo lo necesario para la organización. Una posible estructura de carpetas podría ser:
+* Reuniones/Actas
+* Arte
+  * Logos
+  * Banners
+* Ponentes
+* Grabaciones/Fotos
+* Patrocinadores
 
 ## Nombre del grupo de meetup
 Tienes que definir un nombre para el grupo de meetup con el que te identificarás de aquí en adelante. Es fundamental que el nombre que elijas no sea modificado en el tiempo ya que eso genera confusión entre los miembros del grupo. Por lo tanto tómate tu tiempo para buscar un nombre que sea relativamente corto, identificatorio y fácil de recordar.
@@ -118,8 +127,9 @@ Una vez hayas publicado el evento, automáticamente se informará a todos los pa
 
 ## Difusión
 Aspecto importante, sin difusión no habrá asistentes el día de la meetup.
+
 Algunas ideas:
-* Redes sociales, difundir desde cada twitter de organizadores.
+* Redes sociales, difundir desde cada cuenta de twitter de organizadores, compartir varias veces antes del evento.
 * Webs relacionadas (ponte en contacto).
 * Enviar mensajes recordatorios desde el grupo de meetup. Estos mensajes llegan a todos los suscriptos al grupo de meetup, una ejemplo de envío sería:
   * Dos semanas antes de la meetup.
