@@ -7,7 +7,6 @@ Mi experiencia viene de organizar meetups como la de WordPress Coruña, donde te
 
 ## Grupos actuales por ciudad/comunidad autonómica
 
-Meetups:
 * Asturias https://t.me/+sNHE315xsgQ1ZWFk
 * Barcelona https://t.me/BitcoinBarcelo2
 * Bilbao https://t.me/+1Zf9DwvVyzQ4OTI8
@@ -152,6 +151,6 @@ Luego de cada meetup es recomendable reunirse y tener en cuenta los siguientes a
 En esa reunión es ideal resolver aspectos para la siguiente meetup y ya ponerse manos a la obra para contactar al siguiente ponente. También se puede definir como se repartirán las tareas entre los organizadores.
 
 ## Colaboración
-Si quieres colaborar con esta guía puedes hacerlo directamente enviando un PR. También puedes comunicarte con el equipo oficial de Bitcoin 2140 [@lunaticoin](https://twitter.com/lunaticoin), [@Multicripto](https://twitter.com/Multicripto) y [@Ko01Zero](https://twitter.com/Ko01Zero)o conmigo, un humilde servidor de la red [@danielpcostas](https://twitter.com/danielpcostas).
+Si quieres colaborar con esta guía puedes hacerlo directamente enviando un PR. También puedes comunicarte con el equipo oficial de Bitcoin 2140 [@lunaticoin](https://twitter.com/lunaticoin), [@Multicripto](https://twitter.com/Multicripto) y [@Ko01Zero](https://twitter.com/Ko01Zero) o conmigo, un humilde servidor de la red [@danielpcostas](https://twitter.com/danielpcostas).
 
 Si ves algún error o tienes información para aportar y que esto ayude a otros no dudes en colaborar así acercamos el conocimiento a más personas.
