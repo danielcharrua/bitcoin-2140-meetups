@@ -5,6 +5,23 @@ Usa este archivo como guía inicial para la creación de meetups en tu localidad
 
 Mi experiencia viene de organizar meetups como la de WordPress Coruña, donde tenemos una charla una vez al mes y luego un networking en algún bar cercano. Las charlas son súper importantes pero más aún es el networking, donde conoces gente, haces contactos profesionales, intercambias sats, etc.
 
+## Grupos actuales por ciudad/comunidad autonómica
+
+Meetups:
+* Asturias https://t.me/+sNHE315xsgQ1ZWFk
+* Barcelona https://t.me/BitcoinBarcelo2
+* Bilbao https://t.me/+1Zf9DwvVyzQ4OTI8
+* Coruña 2140_Coruña https://t.me/+gCpdICKpMcZiMDBk
+* Granada 2140_Granada https://t.me/+817pI2MCX3cxM2Fk
+* Madrid 
+  * Bitcoin Tuesdays https://t.me/madridmeetup
+  * Meet Mad https://www.meetup.com/es-ES/meetbmad/
+* Mallorca https://t.me/+k5dWJonrbDA0ZTg0
+* Pontevedra https://t.me/PonteVedra_2140
+* Sevilla https://t.me/+HiiXcDMyew7tFTDI
+* Tenerife https://t.me/tenerife2140
+* Valencia Valencia Bitcoin Plebs https://t.me/ValenciaBitcoinPlebs
+
 ## Equipo organizador
 Es importante designar un equipo organizador (2-4 personas) que tenga disponibilidad y sea responsable. Este equipo debe realizar varias tareas previas y posteriores a cada meetup para que el evento sea una buena experiencia para todos. Si algún integrante del equipo falla, son los otros quienes deben hacer su trabajo, por lo tanto es importante el compromiso y la dedicación en los integrantes del equipo organizador.
 
@@ -34,7 +51,7 @@ El monto que se necesita para pinchos y cañas no es tanto, con unos 100 € apr
 
 En el caso de las meetups que organizamos, tenemos pactado un "hasta 100 €" por parte de uno de los patrocinadores, que realmente nunca lo consumimos todo, generalmente usamos 50-70 € por meetup. Eso está bien para el patrocinador ya que no tiene un gasto fijo del monto con el que patrocine. Pero esto lo dejo a disposición de cada uno.
 
-Es una buena práctica que agradezcas a los patrocinadores con diapositivas al inicio del evento y darles la posibilidad de poner un banner siempre condiciones preestablecidas. Si van a usar un banner debes indicarle el tamaño máximo.
+Es una buena práctica que agradezcas a los patrocinadores con diapositivas al inicio del evento y darles la posibilidad de poner un banner siempre bajo condiciones preestablecidas. Si van a usar un banner debes indicarle el tamaño máximo.
 
 Cuando busques un patrocinador debes decirle que le das a cambio, entre esas cosas puede ser un banner, agradecimiento en el evento, difusión en las redes sociales, etc.
 
@@ -53,7 +70,7 @@ Hemos visto que la fórmula de charlas de 40-45 minutos y luego 15 minutos para 
 
 La frecuencia de las meetups sería de 1 vez al mes. Recuerda que si duplicas la frecuencia se duplicará también el esfuerzo.
 
-Se pueden alternar charlas standard con otras tipo talleres prácticos. Si se hacen talleres prácticos donde involucre el uso de ordenadores por parte de los participantes eso debe avisarse, y tener en cuenta que seguramente necesiten acceso a una red Wi-Fi y a la red eléctrica.
+Se pueden alternar charlas standard con otras tipo talleres prácticos. Si se hacen talleres prácticos donde involucre el uso de ordenadores por parte de los participantes eso debe avisarse con anterioridad, y tener en cuenta que seguramente necesiten acceso a una red Wi-Fi y a la red eléctrica.
 
 Para los talleres es ideal llevar todo muy procesado para no perder tiempo en que cada participante pueda montar un entorno o configuraciones específicas ni cerrarse a un sistema operativo específico, la idea de un taller es que todos puedan realizarlo. Puedes comentar los requerimientos para realizar el taller cuando publiques el evento.
 
@@ -62,11 +79,11 @@ Sería ideal que avises de alguna forma el grado de dificultad de la charla o ta
 Idea: si cuentas con algún patrocinador que te deje algo para regalar a los asistentes, puedes hacer un kahoot al finalizar la charla. Esto motiva bastante a los asistentes.
 
 ## Networking
-El networking siempre se hace de pie, nunca sentados. Esto permite a los participantes moverse e interactuar entre todos. Ten en cuenta esto al reservar el sitio para el networking y siempre avisa con tiempo al bar que quieres mesas o sitio para estar de pié.
+El networking siempre se hace de pie, nunca sentados. Esto permite a los participantes moverse e interactuar entre todos. Ten en cuenta esto al reservar el sitio para el networking y siempre avisa con tiempo al bar que quieres mesas o sitio para estar de pié, puede ser una barra.
 
-Si cuentas con un patrocinador que te pague pinchos y cañas lo puedes resolver con unos tickets a cada integrante y que mediante ellos obtengan la consumición. Normalmente en ciudades pequeñas la afluencia no es tanta por lo que se hace más fácil gestionar este tipo de cosas, en Coruña no solemos usar tickets que nos conocemos todos ;)
+Si cuentas con un patrocinador que te pague pinchos y cañas lo puedes resolver entregando un ticket a cada integrante y que mediante ellos obtengan la consumición. Normalmente en ciudades pequeñas la afluencia no es tanta por lo que se hace más fácil gestionar este tipo de cosas, en A Coruña no solemos usar tickets que nos conocemos todos ;)
 
-Si no hay patrocinador, pues cada uno puede pagar su consumición y tú como organizador (si cuentas con fondos o donaciones) llevar comida (siempre que el sitio te lo permita).
+Si no hay patrocinador, pues cada uno puede pagar su consumición y tú como organizador (si cuentas con fondos o donaciones) llevar algo para picar (siempre que el sitio te lo permita).
 
 ## Ponentes
 Todos los meses se deberá hacer una selección y llamada a ponentes para las charlas. Esto significa ponerse en contacto con los ponentes, comentarles cómo funciona la meetup y darles apoyo.
@@ -75,7 +92,7 @@ Es interesante que el equipo organizador siempre tenga un listado de posibles po
 
 Algunas ideas para la comunicación con el ponente:
 * Facilitarle una plantilla con los logos (de la meetup y patrocinadores) al pie y una pequeña guía de estilos.
-* El día de la meetup tienen que estar 20 minutos antes para hacer una pequeña prueba de los equipos.
+* El día de la meetup debe presentarse 20 minutos antes para hacer una pequeña prueba de los equipos.
 * La duración de la charla será de máximo 45 minutos y 15 minutos de preguntas si se desea.
 * Si la presentación se hace en TV no incluyas textos pequeños.
 * Si la presentación incluye bloques de código fuente, hacerlos sobre fondo blanco no sobre fondo oscuro.
@@ -104,7 +121,7 @@ Una vez hayas publicado el evento, automáticamente se informará a todos los pa
 Aspecto importante, sin difusión no habrá asistentes el día de la meetup.
 Algunas ideas:
 * Redes sociales, difundir desde cada twitter de organizadores.
-* Webs relacionadas, ponerse en contacto.
+* Webs relacionadas (ponte en contacto).
 * Enviar mensajes recordatorios desde el grupo de meetup. Estos mensajes llegan a todos los suscriptos al grupo de meetup, una ejemplo de envío sería:
   * Dos semanas antes de la meetup.
   * Una semana antes de la meetup.
@@ -114,7 +131,7 @@ Algunas ideas:
   * Otras formas que se te ocurran.
 
 ## Equipamiento para el evento
-Esto dependerá de tus recursos, el sitio donde hagas el evento y la cantidad de gente que esperas. Si tienes un sitio con mucho ruido igual necesitas un micro, una pequeña consola y un altavoz con amplificador pero dependerá también si te lo permiten.
+Esto dependerá de tus recursos, el sitio donde hagas el evento y la cantidad de gente que esperas. Si tienes un sitio con mucho ruido igual necesitas un micrófono, una pequeña consola de sonido y un altavoz con amplificador pero dependerá también si te lo permiten.
 
 Lo ideal sería hacerlo en un sitio sin tanta contaminación auditiva así puedes prescindir de sistemas de sonido.
 
@@ -125,7 +142,7 @@ Un pasador de diapositivas siempre ayuda al ponente y hace una mejor experiencia
 Por último, lleva botellas de agua para el ponente.
 
 ## Reunión post meetup
-Luego de cada meetup es recomendable reunirse:
+Luego de cada meetup es recomendable reunirse y tener en cuenta los siguientes aspectos:
 * Documentar la reunión.
 * Publicar la presentación del ponente en caso de que se acuerde.
 * Evaluar aspectos a mejorar.
@@ -133,3 +150,8 @@ Luego de cada meetup es recomendable reunirse:
 * Proponer ideas nuevas.
 
 En esa reunión es ideal resolver aspectos para la siguiente meetup y ya ponerse manos a la obra para contactar al siguiente ponente. También se puede definir como se repartirán las tareas entre los organizadores.
+
+## Colaboración
+Si quieres colaborar con esta guía puedes hacerlo directamente enviando un PR. También puedes comunicarte con el equipo oficial de Bitcoin 2140 [@lunaticoin](https://twitter.com/lunaticoin), [@Multicripto](https://twitter.com/Multicripto) y [@Ko01Zero](https://twitter.com/Ko01Zero)o conmigo, un humilde servidor de la red [@danielpcostas](https://twitter.com/danielpcostas).
+
+Si ves algún error o tienes información para aportar y que esto ayude a otros no dudes en colaborar así acercamos el conocimiento a más personas.
