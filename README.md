@@ -144,7 +144,7 @@ Esto dependerá de tus recursos, el sitio donde hagas el evento y la cantidad de
 
 Lo ideal sería hacerlo en un sitio sin tanta contaminación auditiva así puedes prescindir de sistemas de sonido.
 
-Debes llevar un ordenador para conectar al proyector y siempre pídele al ponente la presentación en un formato como PDF, también puedes echarle una mano tu y convertir la presentación.
+Debes llevar un ordenador y cables (HDMI y adaptadores) para conectar al proyector y siempre pídele al ponente la presentación en un formato cómo PDF, también puedes echarle una mano y convertir la presentación.
 
 Un pasador de diapositivas siempre ayuda al ponente y hace una mejor experiencia para todos, son aparatos muy baratos, en torno a 10 €.
 
