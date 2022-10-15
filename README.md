@@ -71,7 +71,7 @@ Para mantenerte en contacto con la comunidad es recomendable que una vez hayas c
 
 Recuerda utilizar el mismo username desde un inicio así facilitas el acceso, ejemplo: twitter.com/<2140_TuCiudad> o t.me/<2140_TuCiudad>.
 
-Si quieres protegerte del spam y tener una ayuda a la hora de moderar el grupo puedes usar el bot [Shieldy](https://t.me/shieldy_bot).
+Si quieres protegerte del spam y tener una ayuda a la hora de moderar el grupo de Telegram puedes usar el bot [Shieldy](https://t.me/shieldy_bot).
 
 ## Patrocinadores
 Es importante contar con patrocinadores (siempre que sea posible) para que ayuden a montar el evento. Los patrocinadores pueden ser entidades que nos brinden el sitio para celebrar la meetup, bares que cedan espacio para networking, un fotógrafo y algo que considero fundamental, un patrocinador para pinchos y cañas.
