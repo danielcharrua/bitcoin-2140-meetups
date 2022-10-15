@@ -60,7 +60,7 @@ Si cuentas con la posibilidad de un diseñador gráfico, puedes encargarle un lo
 ## Crear grupo de meetup
 Para ello debes crear una cuenta en meetup.com y crear un [grupo](https://www.meetup.com/es-ES/start/organizing).
 
-Crear un grupo en meetup.com requiere una cuenta PRO y por lo tanto un pago, en este momento para España el costo es de USD 59,94 si pagas semestral y USD 14,99 si pagas mensual. Puedes ver la información [aquí](https://help.meetup.com/hc/es/articles/360001620472-Precio-de-la-suscripción-para-organizadores).
+Crear un grupo en meetup.com requiere una "suscripcion de organizador" y por lo tanto un pago, en este momento para España el costo es de USD 59,94 si pagas semestral y USD 14,99 si pagas mensual. Puedes ver la información [aquí](https://help.meetup.com/hc/es/articles/360001620472-Precio-de-la-suscripción-para-organizadores).
 
 Sería recomendable que una vez que hayas creado el grupo le agregues una descripción general, le cambies la URL por algo significativo como meetup.com/<2140_TuCiudad> y comiences a difundirlo en redes y a contactos.
 
