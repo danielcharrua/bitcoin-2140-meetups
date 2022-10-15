@@ -21,6 +21,15 @@ Mi experiencia viene de organizar meetups como la de WordPress Coruña, donde te
 * Tenerife https://t.me/tenerife2140
 * Valencia Valencia Bitcoin Plebs https://t.me/ValenciaBitcoinPlebs
 
+## Consideraciones previas
+Debes considerar si existe una necesidad y si hay gente interesada en tu comunidad local. Investiga si existen otras meetups cercanas, asiste a sus eventos y aprende de ellos. Una vez tengas un mínimo de experiencia ya podrás evaluar si organizar y gestionar una comunidad.
+
+Lo más importante a la hora de llevar adelante la comunidad—o grupo de meetup—son las ganas y el equipo que te ayude en la organización. Organizar estos eventos de forma individual puede ser difícil y siempre aparecen más ideas siendo más personas. Recuerda que esto es una comunidad.
+
+Las meetups son simplemente reuniones informales, pueden ser como tú te lo imagines, el formato típico es "charla/ponencia + networking", otro es juntarte en un bar a charlar sobre un tema específico.
+
+Esta guía se enfoca más en el formato "charla/ponencia + networking".
+
 ## Equipo organizador
 Es importante designar un equipo organizador (2-4 personas) que tenga disponibilidad y sea responsable. Este equipo debe realizar varias tareas previas y posteriores a cada meetup para que el evento sea una buena experiencia para todos. Si algún integrante del equipo falla, son los otros quienes deben hacer su trabajo, por lo tanto es importante el compromiso y la dedicación en los integrantes del equipo organizador.
 
@@ -29,6 +38,7 @@ Al momento de crear el equipo sería interesante ver las aptitudes de cada uno y
 * Redacción de textos para el evento, mensajes a enviar, tweets de patrocinadores.
 * Publicación del evento en meetup.com.
 * Creación de material gráfico como banners, logos, plantilla para los ponentes, etc.
+* Búsqueda de ponentes para las charlas.
 * Comunicación y gestión de patrocinadores.
 * Reserva de sitio y lo necesario para el networking.
 * Llevar equipamiento necesario para el día de la meetup.
@@ -48,9 +58,18 @@ Tienes que definir un nombre para el grupo de meetup con el que te identificará
 Si cuentas con la posibilidad de un diseñador gráfico, puedes encargarle un logo o más adelante cuando las meetups estén en funcionamiento, pedir si hay uno entre los asistentes que esté dispuesto a crearlo.
 
 ## Crear grupo de meetup
-Para ello debes crear una cuenta en meetup.com y crear un grupo (seguir las instrucciones). Sería recomendable una vez que hayas creado el grupo que le agregues una descripción general y comiences a difundirlo en redes y tus contactos. 
+Para ello debes crear una cuenta en meetup.com y crear un [grupo](https://www.meetup.com/es-ES/start/organizing).
 
-Es importante que el grupo tenga algunos followers/interesados para que cuando publiquemos el evento ya sean informados automáticamente.
+Crear un grupo en meetup.com requiere una cuenta PRO y por lo tanto un pago, en este momento para España el costo es de USD 59,94 si pagas semestral y USD 14,99 si pagas mensual. Puedes ver la información [aquí](https://help.meetup.com/hc/es/articles/360001620472-Precio-de-la-suscripción-para-organizadores).
+
+Sería recomendable que una vez que hayas creado el grupo le agregues una descripción general, le cambies la URL por algo significativo como meetup.com/<2140_TuCiudad> y comiences a difundirlo en redes y a contactos.
+
+Es interesante que el grupo tenga algunos followers/interesados para que cuando publiquemos el primer evento ya sean informados mediante la propia plataforma.
+
+## Comunidad
+Para mantenerte en contacto con la comunidad es recomendable que una vez hayas creado el grupo de meetup también crees una cuenta de Twitter o Telegram para informar sobre nuevas convocatorias e información relevante a los asistentes.
+
+Recuerda utilizar el mismo username desde un inicio así facilitas el acceso, ejemplo: twitter.com/<2140_TuCiudad> o t.me/<2140_TuCiudad>.
 
 ## Patrocinadores
 Es importante contar con patrocinadores (siempre que sea posible) para que ayuden a montar el evento. Los patrocinadores pueden ser entidades que nos brinden el sitio para celebrar la meetup, bares que cedan espacio para networking, un fotógrafo y algo que considero fundamental, un patrocinador para pinchos y cañas.
@@ -66,17 +85,22 @@ Cuando busques un patrocinador debes decirle que le das a cambio, entre esas cos
 ## Sitio del evento
 Es ideal contar siempre con el mismo sitio para los eventos ya que para los participantes será fácil de recordar, llegar y comentar con otros peers, pero no es un impedimento. Si no encuentras siempre el mismo sitio disponible no hay problema pero si cambias mucho puede ser que tu afluencia tenga fluctuaciones.
 
-Ideas para sitios:
-* Coworkings.
-* Bares.
-* Empresas tecnológicas.
+Debes tener en cuenta cuantos asistentes permite el sitio y a la hora de publicar el evento en meetup.com limitar la cantidad de asistentes a las plazas que tengas disponibles. Intenta siempre buscar sitios con capacidad mínima de 25 personas.
 
-Algo a tener en cuenta es la proyección de diapositivas, debes saber si el sitio cuenta con algún proyector o TV donde puedas conectar un ordenador y la presentación del ponente. Una alternativa sería llevar un proyector y una pantalla. Se pueden comprar por internet o aceptar donativos para este tipo de cosas.
+Ideas para sitios:
+* Sitios públicos
+* Salas de ayuntamientos
+* Bibliotecas
+* Coworkings
+* Bares
+* Empresas tecnológicas
+
+Es recomendable que el sitio cuente con Wi-Fi, una pantalla o un proyector para las  diapositivas de la charla. De ser posible también acceso fácil a la conexión eléctrica para los equipos que uses.
 
 ## Charlas
 Hemos visto que la fórmula de charlas de 40-45 minutos y luego 15 minutos para preguntas es ideal.
 
-La frecuencia de las meetups sería de 1 vez al mes. Recuerda que si duplicas la frecuencia se duplicará también el esfuerzo.
+Mi recomendacion para la frecuencia de las meetups sería de 1 vez al mes. Recuerda que si duplicas la frecuencia se duplicará también el trabajo y el esfuerzo. Intenta que exista una lógica en cuanto al día de la semana, por ejemplo el último miercolés de cada mes. Los horarios ideales son de 19 a 21, pero dependerá del sitio donde lo hagas.
 
 Se pueden alternar charlas standard con otras tipo talleres prácticos. Si se hacen talleres prácticos donde involucre el uso de ordenadores por parte de los participantes eso debe avisarse con anterioridad, y tener en cuenta que seguramente necesiten acceso a una red Wi-Fi y a la red eléctrica.
 
@@ -96,7 +120,7 @@ Si no hay patrocinador, pues cada uno puede pagar su consumición y tú como org
 ## Ponentes
 Todos los meses se deberá hacer una selección y llamada a ponentes para las charlas. Esto significa ponerse en contacto con los ponentes, comentarles cómo funciona la meetup y darles apoyo.
 
-Es interesante que el equipo organizador siempre tenga un listado de posibles ponentes e ideas. En el caso de que no se consiga ponente para ese mes, uno de los organizadores puede dar un taller práctico o charla cómo "fallback".
+Es interesante que el equipo organizador siempre tenga un listado de posibles ponentes e ideas. En el caso de que no se consiga ponente para ese mes, uno de los organizadores puede dar un taller práctico o charla cómo "fallback". También puedes buscar ponentes de otras meetups próximas, hay muchos a los que no les importa moverse y tienen la posibilidad. Todo es cuestión de hablar.
 
 Algunas ideas para la comunicación con el ponente:
 * Facilitarle una plantilla con los logos (de la meetup y patrocinadores) al pie y una pequeña guía de estilos.
@@ -107,6 +131,8 @@ Algunas ideas para la comunicación con el ponente:
 * Si vas a dar un taller conectando tu ordenador con la TV utiliza el zoom cuando quieras mostrar algo en detalle.
 * Puedes invitar a tus amigos y colegas el día de la meetup, pero por favor a través del link de meetup así desde la organización sabemos la audiencia y gestionamos los sitios.
 * Avisar explícitamente de que no están permitidos los discursos de ventas.
+
+Las primeras 2-3 charlas seguramente os toque hacerlas a los organizadores. Si necesitas ideas puedes echar un vistazo a los temas que tratan los otros grupos de meetups cercanos o internacionales.
 
 ## Publicación en meetup.com
 Una vez tengas la charla cerrada y titulada con el ponente debes crear el texto para el evento. En el texto te recomiendo que comentes de que se tratará la meetup, quien es el ponente y un poco de background, hablar del networking y de como llegar al sitio, puedes dar tips de autobuses, trenes, si hay sitio para aparcar, etc.
@@ -131,6 +157,7 @@ Aspecto importante, sin difusión no habrá asistentes el día de la meetup.
 Algunas ideas:
 * Redes sociales, difundir desde cada cuenta de twitter de organizadores, compartir varias veces antes del evento.
 * Webs relacionadas (ponte en contacto).
+* Avisar a otras meetups que estén próximas.
 * Enviar mensajes recordatorios desde el grupo de meetup. Estos mensajes llegan a todos los suscriptos al grupo de meetup, una ejemplo de envío sería:
   * Dos semanas antes de la meetup.
   * Una semana antes de la meetup.
@@ -144,7 +171,7 @@ Esto dependerá de tus recursos, el sitio donde hagas el evento y la cantidad de
 
 Lo ideal sería hacerlo en un sitio sin tanta contaminación auditiva así puedes prescindir de sistemas de sonido.
 
-Debes llevar un ordenador y cables (HDMI y adaptadores) para conectar al proyector y siempre pídele al ponente la presentación en un formato cómo PDF, también puedes echarle una mano y convertir la presentación.
+Debes llevar siempre un ordenador por si el que lleva el ponente falla. También cables y adaptadores para conectarte al proyector o pantalla. Siempre pídele al ponente la presentación en formato PDF.
 
 Un pasador de diapositivas siempre ayuda al ponente y hace una mejor experiencia para todos, son aparatos muy baratos, en torno a 10 €.
 
