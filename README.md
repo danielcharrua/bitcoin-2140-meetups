@@ -5,21 +5,39 @@ Usa este archivo como guía inicial para la creación de meetups en tu localidad
 
 Mi experiencia viene de organizar meetups como la de WordPress Coruña, donde tenemos una charla una vez al mes y luego un networking en algún bar cercano. Las charlas son súper importantes pero más aún es el networking, donde conoces gente, haces contactos profesionales, intercambias sats, etc.
 
-## Grupos actuales por ciudad/comunidad autonómica
+## Grupos
 
-* Asturias https://t.me/+sNHE315xsgQ1ZWFk
+### Canal principal de 2140 Meetups
+Telegram bit.ly/TG_2140
+
+### España
+* Asturias https://t.me/MeetupAsturias2140
+* Alicante https://t.me/+_08wsEe3df5mNmQ0
 * Barcelona https://t.me/BitcoinBarcelo2
 * Bilbao https://t.me/+1Zf9DwvVyzQ4OTI8
-* Coruña 2140_Coruña https://t.me/+gCpdICKpMcZiMDBk
+* Cordoba https://t.me/+7m-yis9ISetiODk8
+* Coruña 2140_Coruña https://t.me/B2140_ACoruna
+* Gipuzkoa https://t.me/+QmgW2FPIWPpiNWU0
 * Granada 2140_Granada https://t.me/+817pI2MCX3cxM2Fk
+* Huelva https://t.me/+9b5tATK3mtIzOWU0
+* Leon https://t.me/+Z4wPK8ets5pkYTE0
 * Madrid 
   * Bitcoin Tuesdays https://t.me/madridmeetup
   * Meet Mad https://www.meetup.com/es-ES/meetbmad/
+* Malaga sudo apt upgrade https://t.me/+WF5B_6BILcg4N2Ey
 * Mallorca https://t.me/+k5dWJonrbDA0ZTg0
+* Murcia https://t.me/+en1Tx_YlhgU3ZjBk
 * Pontevedra https://t.me/PonteVedra_2140
-* Sevilla https://t.me/+HiiXcDMyew7tFTDI
+* Sevilla https://t.me/bitcoinSevilla
 * Tenerife https://t.me/tenerife2140
-* Valencia Valencia Bitcoin Plebs https://t.me/ValenciaBitcoinPlebs
+* Valencia https://t.me/+s58_1nTCzqplZDhk
+* Vitoria-Gasteiz https://t.me/+rEa2XhiJiTs5ZGM8
+* Zaragoza https://t.me/+oiUQbCc3xek2NTA0
+
+### Resto de Europa y América 🧡
+* Bruselas (Bélgica) https://t.me/+z2W0bG0Tb5BmZDE0
+* Berlin (Alemania) https://t.me/Berlin2140
+* Guatemala https://t.me/p2pJalapa
 
 ## Consideraciones previas
 Debes considerar si existe una necesidad y si hay gente interesada en tu comunidad local. Investiga si existen otras meetups cercanas, asiste a sus eventos y aprende de ellos. Una vez tengas un mínimo de experiencia ya podrás evaluar si organizar y gestionar una comunidad.
