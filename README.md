@@ -38,6 +38,7 @@ Telegram bit.ly/TG_2140
 * Bruselas (Bélgica) https://t.me/+z2W0bG0Tb5BmZDE0
 * Berlin (Alemania) https://t.me/Berlin2140
 * Guatemala https://t.me/p2pJalapa
+* México https://t.me/bitcoin_mexico_comunidad
 
 ## Consideraciones previas
 Debes considerar si existe una necesidad y si hay gente interesada en tu comunidad local. Investiga si existen otras meetups cercanas, asiste a sus eventos y aprende de ellos. Una vez tengas un mínimo de experiencia ya podrás evaluar si organizar y gestionar una comunidad.
