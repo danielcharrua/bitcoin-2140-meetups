@@ -212,3 +212,9 @@ En esa reunión es ideal resolver aspectos para la siguiente meetup y ya ponerse
 Si quieres colaborar con esta guía puedes hacerlo directamente enviando un PR. También puedes comunicarte con el equipo oficial de Bitcoin 2140 [@lunaticoin](https://twitter.com/lunaticoin), [@Multicripto](https://twitter.com/Multicripto) y [@Ko01Zero](https://twitter.com/Ko01Zero) o conmigo, un humilde servidor de la red [@danielpcostas](https://twitter.com/danielpcostas).
 
 Si ves algún error o tienes información para aportar y que esto ayude a otros no dudes en colaborar así acercamos el conocimiento a más personas.
+
+## Send some love
+
+Si consideras que esta guía te ha aportado valor puedes enviar unos sats usando Lightning Network ⚡️
+ 
+<p align="center"><a href="lightning:LNURL1DP68GURN8GHJ7MRWW3UXYMM59E3K7MF09EMK2MRV944KUMMHDCHKCMN4WFK8QTMYV9HXJETVWP3K7UM5V9ES4MRMQW"><img width="180" src="/art/qr-lnurl.svg" alt="qr-lnurl"></a></p>
